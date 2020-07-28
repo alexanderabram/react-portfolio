@@ -1,0 +1,156 @@
+{
+  "main": {
+    "name": "Alex Abram",
+    "occupation": "Software Developer",
+    "description": "I live on the East Side with my two chocolate labs. I am currently a full time student enrolled in Vanderbilt University's Full Stack Coding Bootcamp",
+    "image": "profilepic.jpg",
+    "bio": "With an education in full-stack development, I am looking to focus on the backend and to create functional and intuitive solutions.",
+    "contactmessage": "Want to get in contact with me directly? Feel free to reach out via my cell, email, or the form below.",
+    "email": "alexanderabram6440@gmail.com",
+    "phone": "615-587-5053",
+    "address": {
+      "street": "Hart Ave",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zip": "37206"
+    },
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/alex-abram-8214b5151/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/alexanderabram",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I have experience working with the following languages:",
+    "education": [
+      {
+        "school": "Vanderbilt University",
+        "degree": "Full Stack Coding Boot Camp",
+        "graduated": "August 2020",
+        "description": "Completed the fulltime coding bootcamp."
+      },
+      {
+        "school": "University of Colorado",
+        "degree": "Philosophy",
+        "graduated": "May 2015",
+        "description": "Studied philosophy from 2011 to 2015 where I honed my problem solving and critical thinking skills "
+      }
+    ],
+    "work": [
+      {
+        "company": "The Cauble Group",
+        "title": "VP of Leasing and Sales",
+        "years": "July 2018 - May 2020",
+        "description": "Lead clients through the leasing and/or purchase process while utilizing CRE softwares such as CoStar."
+      },
+      {
+        "company": "C-III Capital Partners",
+        "title": "Intern",
+        "years": "January - May 2016",
+        "description": "Assisted the special servicing department with the management of REO assets. Analyzed figures and generated hold/sale reports using Excel."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "jQuery",
+        "level": "80%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "80%"
+      },
+      {
+        "name": "Express.js",
+        "level": "80%"
+      },
+      {
+        "name": "React.js",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "CineSearch",
+        "category": "A random movie generato designed to cut down on the time it takes for users to search for which movie to watch.",
+        "image": "cinesearch.jpg",
+        "url": "https://alextagg392.github.io/CineSearch/"
+      },
+      {
+        "title": "Pro Quest",
+        "category": "A functional task manager that turns assignment tracking into a game.",
+        "image": "proquest.jpg",
+        "url": "https://pro-quest.herokuapp.com/"
+      },
+      {
+        "title": "Eat Da Burger",
+        "category": "A burger logger using MySQL, Node, Express, Handlebars, and a freshly cooked ORM.",
+        "image": "eat-da-burger.jpg",
+        "url": "https://desolate-ridge-18907.herokuapp.com/"
+      },
+      {
+        "title": "Employee Summary Generator",
+        "category": "A CLI that generates an employee/team summary based on user input.",
+        "image": "employee-generator.jpg",
+        "url": "https://github.com/alexanderabram/Template-Engine-Employee-Summary"
+      },
+      {
+        "title": "Password Generator",
+        "category": "Generates a random password per user input.",
+        "image": "password-generator.jpg",
+        "url": "https://alexanderabram.github.io/Password-Generator/"
+      },
+      {
+        "title": "Coding Quiz",
+        "category": "Generates a random password per user input.",
+        "image": "coding-quiz.jpg",
+        "url": "https://alexanderabram.github.io/Coding-Quiz/index.html"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Every problem has a solution. You just have to be creative enough to find it.",
+        "user": "Travis Kalanick"
+      }
+    ]
+  }
+}
