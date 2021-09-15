@@ -1,15 +1,14 @@
 {
   "main": {
     "name": "Alex Abram",
-    "occupation": "Software Developer",
-    "description": "I live on the East Side with my two chocolate labs. I am currently a full time student enrolled in Vanderbilt University's Full Stack Coding Bootcamp",
+    "occupation": "ETL Engineer",
+    "description": "I work with Relatient, based in Franklin, Tennessee. We are passionate about assisting healthcare organizations with state of the art patient-centered engagement.",
     "image": "profilepic.jpg",
-    "bio": "With an education in full-stack development, I am looking to focus on the backend and to create functional and intuitive solutions.",
+    "bio": "With an education in full-stack development, I am looking to further strengthen my ETL skill set within the realm of healthcare technology.",
     "contactmessage": "Want to get in contact with me directly? Feel free to reach out via my cell, email, or the form below.",
     "email": "alexanderabram6440@gmail.com",
     "phone": "615-587-5053",
     "address": {
-      "street": "Hart Ave",
       "city": "Nashville",
       "state": "Tennessee",
       "zip": "37206"
@@ -45,6 +44,12 @@
     ],
     "work": [
       {
+        "company": "Relatient",
+        "title": "ETL Intern",
+        "years": "May 2021 - Current",
+        "description": "Responsible for converting existing customers from a legacy SFTP environment to AWS Transfer Family."
+      },
+      {
         "company": "The Cauble Group",
         "title": "VP of Leasing and Sales",
         "years": "July 2018 - May 2020",
@@ -58,6 +63,13 @@
       }
     ],
     "skills": [
+      {
+        "name": "Perl",
+        "level": "80%"
+      },{
+        "name": "Python",
+        "level": "80%"
+      },
       {
         "name": "HTML",
         "level": "80%"
