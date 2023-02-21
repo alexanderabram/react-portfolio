@@ -33,21 +33,21 @@
         "school": "Vanderbilt University",
         "degree": "Full Stack Coding Boot Camp",
         "graduated": "August 2020",
-        "description": "Completed the fulltime coding bootcamp."
+        "description": "Attended Bootcamp to enhance skills and puruse a job in engineering at the onset of the COVID-19 pandemic. Full time 12-week intensive program focused on gaining technical programmin skills in HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node Js, MySQL, MongoDB, Express, Handelbars.js & ReactJS. "
       },
       {
         "school": "University of Colorado",
         "degree": "Philosophy",
         "graduated": "May 2015",
-        "description": "Studied philosophy from 2011 to 2015 where I honed my problem solving and critical thinking skills "
+        "description": "Graduated with a degree in philosophy in order to master problem-solving and critical thinking skills."
       }
     ],
     "work": [
       {
         "company": "Relatient",
-        "title": "ETL Intern",
+        "title": "ETL Engineer/Integration Specialist",
         "years": "May 2021 - Current",
-        "description": "Responsible for converting existing customers from a legacy SFTP environment to AWS Transfer Family."
+        "description": "Led initiative in transferring 150+ existing clients from a legacy SFTP environment to AWS Transfer Family. This includes creating AWS accounts, client outreach, connecting clients to new SFTP endpoint, adding code to integrate new endpoint, QA, and continual client support."
       },
       {
         "company": "The Cauble Group",
